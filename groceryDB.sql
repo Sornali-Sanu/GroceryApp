@@ -120,6 +120,36 @@ ip_address varchar(100)
 )
 
 
+create Table Images
+(imageId int identity(1,1) not null primary Key,
+productId int references Products(productId) null,
+userId int references Users (userId) null,
+verdorId int references Vendors(vendorId) null,
+customerId int references Customers(customerId) null,
+imageType varchar(50) not null default 'Customer',
+imagePath varchar(Max) null,
+uploadedAt Datetime Default GetDate(),
+uploadedBy Int null references Users (userId)
+)
+
+CREATE TABLE Employees (
+    employeeId INT IDENTITY(1,1) PRIMARY KEY,
+    userId INT NULL REFERENCES Users(userId), 
+    firstName VARCHAR(50) NOT NULL,
+    lastName VARCHAR(50) NULL,
+    gender VARCHAR(10) NULL,
+    dateOfBirth DATE NULL,
+    phone CHAR(11) NOT NULL,
+    email VARCHAR(100) NULL,
+    address VARCHAR(100) NULL,
+    position VARCHAR(50) NOT NULL,         
+    hireDate DATETIME DEFAULT GETDATE(),
+    salary DECIMAL(18,2) DEFAULT 0.00,
+    employeeStatus VARCHAR(20) DEFAULT 'Active',
+    created_At DATETIME DEFAULT GETDATE()
+);
+
+
 
 
 
