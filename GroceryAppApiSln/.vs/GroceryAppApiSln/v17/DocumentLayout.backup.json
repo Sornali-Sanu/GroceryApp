@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\models\\grocerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\models\\grocerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\dto\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\dto\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\extentions\\applicationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +35,12 @@
       "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\models\\grocerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\models\\grocerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\groceryappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\groceryappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|solutionrelative:groceryappapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74CA573C-2B8C-4613-A9F2-B1F41C4F3BAC}|GroceryAppApi\\GroceryAppApi.csproj|d:\\backup\\groceryproject\\groceryappapisln\\groceryappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,37 +54,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "GroceryAppApi\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\TestController.cs",
-              "RelativeToolTip": "GroceryAppApi\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\DTO\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\DTO\\ProductViewModel.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\DTO\\ProductViewModel.cs",
+              "RelativeToolTip": "GroceryAppApi\\DTO\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T14:04:17.705Z",
+              "WhenOpened": "2025-11-11T14:56:27.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "GroceryAppApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:54:44.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "GroceryAppApi\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:49:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\Interfaces\\IProduct.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "GroceryAppApi\\Interfaces\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:46:46.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\Models\\Product.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Models\\Product.cs",
+              "RelativeToolTip": "GroceryAppApi\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:38:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroceryAppApi.csproj",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\GroceryAppApi.csproj",
+              "RelativeDocumentMoniker": "GroceryAppApi\\GroceryAppApi.csproj",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\GroceryAppApi.csproj",
+              "RelativeToolTip": "GroceryAppApi\\GroceryAppApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T03:55:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "GroceryAppApi\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "GroceryAppApi\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:04:17.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationBuilder.cs",
               "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Extentions\\ApplicationBuilder.cs",
               "RelativeDocumentMoniker": "GroceryAppApi\\Extentions\\ApplicationBuilder.cs",
               "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Extentions\\ApplicationBuilder.cs",
               "RelativeToolTip": "GroceryAppApi\\Extentions\\ApplicationBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T13:53:02.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T13:53:02.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Program.cs",
               "RelativeDocumentMoniker": "GroceryAppApi\\Program.cs",
@@ -68,25 +167,24 @@
               "RelativeToolTip": "GroceryAppApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T13:40:03.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T13:40:03.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GroceryDbContext.cs",
               "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Models\\GroceryDbContext.cs",
               "RelativeDocumentMoniker": "GroceryAppApi\\Models\\GroceryDbContext.cs",
               "ToolTip": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\Models\\GroceryDbContext.cs",
               "RelativeToolTip": "GroceryAppApi\\Models\\GroceryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAMoBAAAAAAAAAIAwwO4BAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T13:38:53.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Backup\\GroceryProject\\GroceryAppApiSln\\GroceryAppApi\\appsettings.json",
               "RelativeDocumentMoniker": "GroceryAppApi\\appsettings.json",
@@ -94,8 +192,7 @@
               "RelativeToolTip": "GroceryAppApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T12:58:00.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T12:58:00.347Z"
             }
           ]
         }
