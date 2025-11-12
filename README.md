@@ -1,8 +1,10 @@
 "# GroceryApp" 
 
+
 ```
-On going project
+Currently Working On This Project 
 ```
+![status](https://img.shields.io/badge/Status-In_Progress-yellow)
 ```
 --- Database Design ---
 ```
