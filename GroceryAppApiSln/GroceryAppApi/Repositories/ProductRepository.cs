@@ -46,7 +46,8 @@ namespace GroceryAppApi.Repositories
 
         public async Task<IEnumerable<Product>> GetAllProduct()
         {
-           var products =await _context.Products.ToListAsync();
+           var products =await _context.Products.Include(x=>x.Images).
+          ToListAsync();
            return products;
         }
 

@@ -335,11 +335,6 @@
             "type": "integer",
             "format": "int32"
           },
-          "productId": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          },
           "userId": {
             "type": "integer",
             "format": "int32",
@@ -372,21 +367,6 @@
             "type": "integer",
             "format": "int32",
             "nullable": true
-          },
-          "customer": {
-            "$ref": "#/components/schemas/Customer"
-          },
-          "product": {
-            "$ref": "#/components/schemas/Product"
-          },
-          "uploadedByNavigation": {
-            "$ref": "#/components/schemas/User"
-          },
-          "user": {
-            "$ref": "#/components/schemas/User"
-          },
-          "verdor": {
-            "$ref": "#/components/schemas/Vendor"
           }
         },
         "additionalProperties": false

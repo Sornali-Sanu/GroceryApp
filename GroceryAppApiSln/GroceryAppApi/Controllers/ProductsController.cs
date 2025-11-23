@@ -15,7 +15,15 @@ namespace GroceryAppApi.Controllers
         [HttpGet]
         public async Task< IActionResult> GetProductList()
         {
-            var productList =await productRepo.GetAllProduct();
+            //var productList =await productRepo.GetAllProduct();
+            //return Ok(productList);
+            var productList = await productRepo.GetAllProduct();
+
+            foreach (var p in productList)
+            {
+                Console.WriteLine($"Product: {p.ProductId}, Images: {p.Images.Count}");
+            }
+
             return Ok(productList);
         }
         [HttpGet("{id}")]
