@@ -1,4 +1,6 @@
-﻿using GroceryAppApi.Models;
+﻿using GroceryAppApi.Interfaces;
+using GroceryAppApi.Models;
+using GroceryAppApi.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace GroceryAppApi.Extentions
@@ -20,6 +22,8 @@ namespace GroceryAppApi.Extentions
             {
                 Console.WriteLine($"❌ Error configuring DbContext: {ex.Message}");
             }
+
+            services.AddScoped<IEmployee,EmployeeRepository>();
             services.AddControllers();
 
             services.AddCors();
